@@ -1,2 +1,0 @@
-# PLTW-PUBLIC
-for PLTW ppl
